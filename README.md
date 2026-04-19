@@ -3,7 +3,7 @@
 A responsive weather app built with React, powered by 
 the Open-Meteo API. No API key required.
 
-**[Live Demo](#)** ← replace with your Netlify URL
+**[Live Demo](https://weather-app-by-iryna.netlify.app/)**
 
 ---
 
