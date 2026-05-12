@@ -7,7 +7,7 @@ the Open-Meteo API. No API key required.
 
 ---
 
-![React Weather App](screenshot.png)
+![React Weather App](Screenshot 2026-04-19 113622.png)
 
 ---
 
